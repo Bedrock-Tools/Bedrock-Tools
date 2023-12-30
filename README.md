@@ -9,7 +9,7 @@
 
 ## How to set up
 
-Download the Software: Download the Bedrock Tools Setup.exe, Note you will need to disable your real time protection in your anti virus.
+Download the Software: Download the Bedrock Tools Setup.exe in releases, Note you will need to disable your real time protection in your anti virus.
 
 Run the Installer: Locate the downloaded Bedrock Tools Setup.exe file and double-click it to run the installer.
 
